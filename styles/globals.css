@@ -1,3 +1,84 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  ::selection {
+    @apply text-white-100 bg-barbiePink-60;
+  }
+  ::-moz-selection {
+    @apply text-white-100 bg-barbiePink-60;
+  }
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-cetaceanBlue-100;
+  }
+
+  h1 {
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: 600; /* Semi-Bold */
+  }
+
+  h2 {
+    font-size: 28px;
+    font-weight: 600; /* Semi-bold */
+  }
+
+  h3 {
+    font-size: 24px;
+    font-weight: 600; /* Semi-Bold */
+  }
+
+  h4 {
+    font-size: 20px;
+    font-weight: 600; /* Semi-Bold */
+  }
+
+  h5 {
+    font-size: 16px;
+    font-weight: 600; /* Semi-bold */
+  }
+
+  h6 {
+    font-size: 1rem;
+    font-weight: 500; 
+  }
+
+  p {
+    font-size: 1rem;
+    @apply text-black-60;
+  }
+
+  .ms-focus-barbiePink {
+    @apply focus:outline-none focus-within:ring-2 ring-barbiePink-60 ring-opacity-70 active:ring-opacity-100 focus-within:border-barbiePink-100;
+  }
+
+  .ms-focus-visible-barbiePink {
+    @apply focus:outline-none focus-visible:ring-2 ring-barbiePink-60 ring-opacity-70 active:ring-opacity-100 focus-within:border-barbiePink-100;
+  }
+
+  .ms-focus-vividCerulean {
+    @apply focus:outline-none focus-within:ring-2 ring-vividCerulean-60 ring-opacity-70 active:ring-opacity-100 focus-within:border-vividCerulean-100;
+  }
+
+  .overflow-y-initial {
+    overflow-y: initial;
+  }
+
+  .normal-scroll {
+    scroll-behavior: auto;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+}

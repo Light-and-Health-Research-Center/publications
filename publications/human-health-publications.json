@@ -1,0 +1,60 @@
+{
+  "pubs": [
+    {
+      "title": "aPredictions of melatonin suppression during the early biological night and their implications for residential light exposures prior to sleeping",
+      "year": "2021",
+      "journal": {
+        "name": "Scientific Reports",
+        "extra": "2020;10"
+      },
+      "doi": "10.1038/s41598-020-70619-4",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
+        { "first": "Mariana", "last": "Figuerio", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Light at night",
+        "Melatonin",
+        "Sleep",
+        "Residential",
+        "Electric light",
+        "Self-luminous device",
+        "Spectrum",
+        "Duration",
+        "Light level"
+      ],
+      "fund_number": "123456789",
+      "link": "https://www.nature.com/articles/s41598-020-70619-5"
+    },
+    {
+      "title": "Predictions of melatonin suppression during the early biological night and their implications for residential light exposures prior to sleeping",
+      "year": "2011",
+      "journal": {
+        "name": "Scientific Reports",
+        "extra": "2020;10"
+      },
+      "doi": "10.1038/s41598-020-70619-5",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
+        { "first": "Mariana", "last": "Figuerio", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Light at night",
+        "Melatonin",
+        "Sleep",
+        "Residential",
+        "Electric light",
+        "Self-luminous device",
+        "Spectrum",
+        "Duration",
+        "Light level"
+      ],
+      "fund_number": "123456789",
+      "link": "https://www.nature.com/articles/s41598-020-70619-5"
+    }
+  ]
+}
