@@ -6,6 +6,7 @@ export default function PublicationCard({ publication }) {
     <a
       href={publication.link}
       target="_blank"
+      rel="noreferrer"
       className="bg-white-100 rounded-lg cursor-pointer transition duration-150 ease-in-out _hover:hover:-translate-y-px  ms-focus-barbiePink _hover:hover:drop-shadow-lg"
     >
       <div className="border border-black-20 rounded-lg p-4">

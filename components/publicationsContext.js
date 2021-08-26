@@ -37,6 +37,7 @@ export function PublicationsProvider({ publications, selectors, children }) {
     return matches;
   }
 
+  // Sorting Stuff
   const [sortBy, setSortBy] = useState("Year");
 
   function isSortedByYear() {
@@ -117,7 +118,6 @@ export function PublicationsProvider({ publications, selectors, children }) {
   // Sort selectedPublications
   useEffect(() => {
     let selectedPublicationsCopy = [...selectedPublications];
-    console.log(selectedPublicationsCopy);
     switch (sortBy) {
       case "Year":
         selectedPublicationsCopy.sort((a, b) => {

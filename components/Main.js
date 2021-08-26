@@ -22,7 +22,7 @@ export default function Main() {
         <div className="w-max mx-auto mt-12">
           <VoidMan />
           <h5 className="text-black-60 mt-4 text-center">
-            There's nothing here.
+            There&apos;s nothing here.
           </h5>
         </div>
       )}
