@@ -10,11 +10,9 @@ export default function Main() {
     <main className="mt-12">
       {context.selectedPublications && context.selectedPublications.length ? (
         <>
-          <div className="flex justify-between mb-4">
+          <div className="flex justify-between mb-4 mx-2">
             <Count />
-            <div>
-              <SortBy />
-            </div>
+            <SortBy />
           </div>
           <CardSection />
         </>
