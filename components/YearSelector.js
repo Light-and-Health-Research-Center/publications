@@ -5,7 +5,7 @@ import { usePublications } from "./publicationsContext";
 export default function YearSelector() {
   const context = usePublications();
   return (
-    <Popover className="relative m-2">
+    <Popover className="m-2">
       {({ open }) => (
         <>
           <Popover.Button

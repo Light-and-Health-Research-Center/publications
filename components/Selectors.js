@@ -6,7 +6,7 @@ import YearSelector from "./YearSelector";
 
 export default function Selectors() {
   return (
-    <div className="relative flex">
+    <div className="flex overflow-x-scroll scrollbar-hide">
       <YearSelector />
       <JournalSelector />
       <FundingSelector />
