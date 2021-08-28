@@ -10,7 +10,7 @@ export default function KeySelector() {
   let { styles, attributes } = usePopper(referenceElement, popperElement);
   const context = usePublications();
   return (
-    <Popover className="m-2">
+    <Popover className="m-2 pr-8">
       {({ open }) => (
         <>
           <Popover.Button
