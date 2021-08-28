@@ -19,7 +19,7 @@ export default function Home({ publications, selectors }) {
   return (
     <PublicationsProvider publications={publications} selectors={selectors}>
       <TopBar />
-      <div className="max-w-screen-xl mx-auto mt-4 lg:mt-12 px-2 sm:px-8">
+      <div className="max-w-screen-xl mx-auto mt-4 lg:mt-12 px-4 sm:px-8">
         <Header />
         <Search />
         <Selectors />
