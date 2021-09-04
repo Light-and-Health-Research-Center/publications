@@ -34,6 +34,7 @@
   }
 
   h4 {
+    @apply leading-6;
     font-size: 20px;
     font-weight: 600; /* Semi-Bold */
   }

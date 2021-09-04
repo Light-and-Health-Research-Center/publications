@@ -7,10 +7,10 @@ export default function PublicationCard({ publication }) {
       href={publication.link}
       target="_blank"
       rel="noreferrer"
-      className="bg-white-100 rounded-lg cursor-pointer transition duration-150 ease-in-out _hover:hover:-translate-y-px  ms-focus-barbiePink _hover:hover:drop-shadow-lg"
+      className="group bg-white-100 rounded-xl drop-shadow-softerBlur cursor-pointer transition duration-150 ease-in-out  _hover:hover:-translate-y-1 _hover:hover:scale-101 ms-focus-barbiePink"
     >
-      <div className="border border-black-20 rounded-lg p-4">
-        <h4 className="font-bold leading-5 mb-2">{publication.title}</h4>
+      <div className="p-4">
+        <h4 className="mb-2">{publication.title}</h4>
         {publication.authors && (
           <div className="block text-black-85">
             <h6 className="inline-block mr-2 text-black-100">Author(s):</h6>
