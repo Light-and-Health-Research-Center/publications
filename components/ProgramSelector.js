@@ -46,7 +46,7 @@ export default function ProgramSelector() {
           </Popover.Button>
           {open && (
             <Popover.Panel
-              className="z-10 mt-4 w-max bg-white-100 px-4"
+              className="z-10 mt-4 w-max bg-white-100"
               ref={setPopperElement}
               style={styles.popper}
               {...attributes.popper}

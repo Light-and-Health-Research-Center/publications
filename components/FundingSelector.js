@@ -30,7 +30,7 @@ export default function FundingSelector() {
           </Popover.Button>
           {open && (
             <Popover.Panel
-              className="absolute z-10 mt-4 w-max bg-white-100 px-4"
+              className="absolute z-10 mt-4 w-max bg-white-100"
               ref={setPopperElement}
               style={styles.popper}
               {...attributes.popper}

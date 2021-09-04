@@ -30,7 +30,7 @@ export default function YearSelector() {
           </Popover.Button>
           {open && (
             <Popover.Panel
-              className="px-4 mt-4 w-max bg-white-100 z-10"
+              className="mt-4 w-max bg-white-100 z-10"
               ref={setPopperElement}
               style={styles.popper}
               {...attributes.popper}

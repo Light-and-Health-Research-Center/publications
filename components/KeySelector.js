@@ -30,7 +30,7 @@ export default function KeySelector() {
           </Popover.Button>
           {open && (
             <Popover.Panel
-              className="mt-4 w-max bg-white-100 z-10 px-4"
+              className="mt-4 w-max bg-white-100 z-10"
               ref={setPopperElement}
               style={styles.popper}
               {...attributes.popper}
