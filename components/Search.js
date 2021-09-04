@@ -9,7 +9,7 @@ export default function Search() {
     <div className="mx-auto group bg-white-100 rounded-full flex border border-black-20 ms-focus-barbiePink h-16 mb-2">
       <SearchIcon className="text-black-20 pl-2 w-12" />
       <input
-        autocomplete="off"
+        autoComplete="off"
         className="text-black-60 mx-2 focus:outline-none w-full mr-12"
         type="text"
         placeholder={`${
