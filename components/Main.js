@@ -7,7 +7,7 @@ import VoidMan from "./undraw/VoidMan";
 export default function Main() {
   const context = usePublications();
   return (
-    <main className="mt-12">
+    <main className="my-12">
       {context.selectedPublications && context.selectedPublications.length ? (
         <>
           <div className="flex justify-between mb-4 mx-2">
@@ -17,11 +17,13 @@ export default function Main() {
           <CardSection />
         </>
       ) : (
-        <div className="w-max mx-auto mt-12">
-          <VoidMan />
-          <h5 className="text-black-60 mt-4 text-center">
-            There&apos;s nothing here.
-          </h5>
+        <div className="w-max mx-auto">
+          <div className="mt-24">
+            <VoidMan />
+            <h5 className="text-black-60 mt-4 text-center">
+              There&apos;s nothing here.
+            </h5>
+          </div>
         </div>
       )}
     </main>
