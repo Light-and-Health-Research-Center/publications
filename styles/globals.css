@@ -50,7 +50,7 @@
 
   p {
     font-size: 1rem;
-    @apply text-black-60;
+    @apply text-black-85;
   }
 
   .ms-focus-barbiePink {
