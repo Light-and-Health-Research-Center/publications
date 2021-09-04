@@ -1,6 +1,8 @@
 import Head from "next/head";
 import CardSection from "../components/CardSection";
 import Count from "../components/Count";
+import Footer from "../components/Footer";
+import PublicationFooter from "../components/footer/PublicationFooter";
 import Header from "../components/Header";
 import Main from "../components/Main";
 import {
@@ -24,7 +26,9 @@ export default function Home({ publications, selectors }) {
         <Search />
         <Selectors />
         <Main />
+        <PublicationFooter />
       </div>
+      <Footer />
     </PublicationsProvider>
   );
 }
