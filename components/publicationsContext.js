@@ -20,11 +20,17 @@ export function PublicationsProvider({ publications, selectors, children }) {
   }
 
   function queryMatchesTitle(publication) {
-    return publication.title.toLowerCase().includes(query.toLowerCase());
+    return (
+      publication.title &&
+      publication.title.toLowerCase().includes(query.toLowerCase())
+    );
   }
 
   function queryMatchesDOI(publication) {
-    return publication.doi.toLowerCase().includes(query.toLowerCase());
+    return (
+      publication.doi &&
+      publication.doi.toLowerCase().includes(query.toLowerCase())
+    );
   }
 
   function queryMatchesAuthor(publication) {

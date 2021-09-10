@@ -131,5 +131,6 @@ module.exports = {
       strategy: "class",
     }),
     require("tailwind-scrollbar-hide"),
+    require("@tailwindcss/line-clamp"),
   ],
 };
