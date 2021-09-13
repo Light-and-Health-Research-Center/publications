@@ -8,7 +8,7 @@
         "extra": "2020;10"
       },
       "doi": "10.1038/s41598-020-70619-5",
-      "programs": ["human"],
+      "programs": ["human", "energy", "plant", "transportation"],
       "authors": [
         { "first": "Mark", "last": "Rea", "middle_initial": "S" },
         { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
@@ -36,7 +36,7 @@
         "extra": "2020;4(1):297-312"
       },
       "doi": "10.3233/ADR-200212",
-      "programs": ["human"],
+      "programs": ["human", "energy"],
       "authors": [
         { "first": "Mariana", "last": "Figuerio", "middle_initial": "G" },
         { "first": "Levent", "last": "Sahin" },

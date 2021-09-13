@@ -1,5 +1,7 @@
-import CardSection from "./CardSection";
 import Count from "./Count";
+import GridLayout from "./GridLayout";
+import LayoutChanger from "./LayoutChanger";
+import ListLayout from "./ListLayout";
 import { usePublications } from "./publicationsContext";
 import SortBy from "./SortBy";
 import VoidMan from "./undraw/VoidMan";
@@ -12,9 +14,12 @@ export default function Main() {
         <>
           <div className="flex justify-between mb-4 mx-2">
             <Count />
-            <SortBy />
+            <div className="flex gap-2">
+              <SortBy />
+              <LayoutChanger />
+            </div>
           </div>
-          <CardSection />
+          {context.layout === "list" ? <ListLayout /> : <GridLayout />}
         </>
       ) : (
         <div className="w-max mx-auto">

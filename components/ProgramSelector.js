@@ -51,8 +51,8 @@ export default function ProgramSelector() {
               style={styles.popper}
               {...attributes.popper}
             >
-              <div className="p-4 rounded-lg shadow-lg ring-1 ring-black-100 ring-opacity-5">
-                <div className="mb-2">
+              <div className="rounded-lg shadow-lg ring-1 ring-black-100 ring-opacity-5">
+                <div className="mb-2 max-h-64 w-60 overflow-y-auto px-4 pt-4">
                   {context.allPrograms.map((program) => {
                     return (
                       <div key={program}>
@@ -73,10 +73,9 @@ export default function ProgramSelector() {
                     );
                   })}
                 </div>
-
-                <div className="w-full flex text-sm text-barbiePink-100 font-medium justify-between">
+                <div className="w-full flex text-sm text-barbiePink-100 font-medium justify-between p-2">
                   <button
-                    className="rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
+                    className="w-full h-8 rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
                     onClick={() => {
                       context.selectAllPrograms();
                     }}
@@ -84,7 +83,7 @@ export default function ProgramSelector() {
                     All
                   </button>
                   <button
-                    className="rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
+                    className="w-full h-8 srounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
                     onClick={() => {
                       context.deselectAllPrograms();
                     }}

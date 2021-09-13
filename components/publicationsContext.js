@@ -62,6 +62,17 @@ export function PublicationsProvider({ publications, selectors, children }) {
     setSortBy("Title");
   }
 
+  // grid vs list
+  const [layout, setLayout] = useState("grid");
+
+  function setLayoutGrid() {
+    setLayout("grid");
+  }
+
+  function setLayoutList() {
+    setLayout("list");
+  }
+
   const totalPublicationsCount = publications.length;
   const [selectedPublicationsCount, setSelectedPublicationsCount] = useState(
     selectedPublications.length
@@ -133,11 +144,12 @@ export function PublicationsProvider({ publications, selectors, children }) {
         break;
       case "Title":
         selectedPublicationsCopy.sort((a, b) => {
-          return b.title > a.title;
+          return b.title < a.title;
         });
         setSelectedPublications(selectedPublicationsCopy);
         break;
     }
+    console.log(selectedPublications);
   }, [sortBy]);
 
   // Year
@@ -330,6 +342,10 @@ export function PublicationsProvider({ publications, selectors, children }) {
     isSortedByTitle,
     setSortByYear,
     setSortByTitle,
+    layout,
+    setLayout,
+    setLayoutGrid,
+    setLayoutList,
     totalPublicationsCount,
     selectedPublicationsCount,
     setSelectedPublicationsCount,

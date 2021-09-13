@@ -35,8 +35,8 @@ export default function YearSelector() {
               style={styles.popper}
               {...attributes.popper}
             >
-              <div className="p-4 rounded-lg shadow-lg ring-1 ring-black-100 ring-opacity-5">
-                <div className="mb-2">
+              <div className="rounded-lg shadow-lg ring-1 ring-black-100 ring-opacity-5">
+                <div className="mb-2 max-h-64 w-32 overflow-y-auto px-4 pt-4">
                   {context.allYears.map((year) => {
                     return (
                       <div key={year}>
@@ -58,9 +58,9 @@ export default function YearSelector() {
                   })}
                 </div>
 
-                <div className="w-full flex text-sm text-barbiePink-100 font-medium justify-between">
+                <div className="w-full flex text-sm text-barbiePink-100 font-medium justify-between p-2">
                   <button
-                    className="rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
+                    className="w-full h-8 rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
                     onClick={() => {
                       context.selectAllYears();
                     }}
@@ -68,7 +68,7 @@ export default function YearSelector() {
                     All
                   </button>
                   <button
-                    className="rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
+                    className="w-full h-8 rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
                     onClick={() => {
                       context.deselectAllYears();
                     }}

@@ -7,11 +7,13 @@ export default function PublicationCard({ publication }) {
       href={publication.link || "/"}
       target="_blank"
       rel="noreferrer"
-      className="group bg-white-100 rounded-sm border drop-shadow-lg cursor-pointer transition duration-150 ease-in-out  _hover:hover:-translate-y-1 _hover:hover:scale-101 ms-focus-barbiePink"
+      className="group bg-white-100 rounded-sm border drop-shadow-md transition duration-150 ease-in-out _hover:hover:-translate-y-1 _hover:hover:scale-101 ms-focus-barbiePink"
     >
       <div className="p-4 flex flex-col justify-between h-full">
         <div>
-          <h4 className="line-clamp-3 h-18">{publication.title}</h4>
+          <div className="mb-4 border-b pb-2">
+            <h4 className="line-clamp-3">{publication.title}</h4>
+          </div>
           {publication.authors && (
             <div className="block text-black-85">
               <h6 className="inline-block mr-2 text-black-100">Author(s):</h6>
@@ -61,11 +63,14 @@ export default function PublicationCard({ publication }) {
         </div>
         <div>
           {publication.programs && (
-            <div className="mt-2">
-              {publication.programs.map((program) => (
-                <CardPill program={program} key={program} />
-              ))}
-            </div>
+            <>
+              <div className="absolute top-0 right-4 bg-gradient-to-l from-white-100 h-full w-5" />
+              <div className="mt-2 flex gap-2 overflow-auto scrollbar-hide">
+                {publication.programs.map((program) => (
+                  <CardPill program={program} key={program} />
+                ))}
+              </div>
+            </>
           )}
         </div>
       </div>

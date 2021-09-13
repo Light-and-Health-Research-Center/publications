@@ -35,8 +35,8 @@ export default function KeySelector() {
               style={styles.popper}
               {...attributes.popper}
             >
-              <div className="p-4 rounded-lg shadow-lg ring-1 ring-black-100 ring-opacity-5">
-                <div className="mb-2">
+              <div className="rounded-lg shadow-lg ring-1 ring-black-100 ring-opacity-5">
+                <div className="mb-2 max-h-64 w-72 overflow-y-auto px-4 pt-4">
                   {context.allKeys.map((key) => {
                     return (
                       <div key={key}>
@@ -57,10 +57,9 @@ export default function KeySelector() {
                     );
                   })}
                 </div>
-
-                <div className="w-full flex text-sm text-barbiePink-100 font-medium justify-between">
+                <div className="w-full flex text-sm text-barbiePink-100 font-medium justify-between p-2">
                   <button
-                    className="rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
+                    className="w-full rounded-lg h-8 ms-focus-visible-barbiePink active:bg-barbiePink-10"
                     onClick={() => {
                       context.selectAllKeys();
                     }}
@@ -68,7 +67,7 @@ export default function KeySelector() {
                     All
                   </button>
                   <button
-                    className="rounded-lg px-2 py-1 ms-focus-visible-barbiePink active:bg-barbiePink-10"
+                    className="w-full rounded-lg h-8 ms-focus-visible-barbiePink active:bg-barbiePink-10"
                     onClick={() => {
                       context.deselectAllKeys();
                     }}
