@@ -13,4 +13,9 @@ To get a development environment up and running, see [SETUP.md](./SETUP.md).
 
 ## Documentation
 
-Detailed documentation for the Light and Health Publications will soon be available at [docs.light-health.org](https://docs.light-health.org/publications)
+Detailed documentation for the Light and Health Publications will soon be available at [docs.light-health.org](https://docs.light-health.org/publications).
+
+
+## Contributing
+
+If you'd like to add/edit a publication, request a feature, or report a bug, see [CONTRIBUTING.md](./CONTRIBUTING.md).
