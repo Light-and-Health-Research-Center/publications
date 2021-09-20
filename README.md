@@ -1,3 +1,3 @@
 # Light and Health Publications
 
-A collection of all publications written by researchers at the LHRC built into a web application with helpful sorting and seraching features.
+A collection of publications written by researchers at the LHRC packaged into a web application with helpful sorting and seraching features.
