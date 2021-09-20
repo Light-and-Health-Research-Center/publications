@@ -19,3 +19,18 @@ Detailed documentation for the Light and Health Publications will soon be availa
 ## Contributing
 
 If you'd like to add/edit a publication, request a feature, or report a bug, see [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## Technologies used
+
+An incomplete list of technologies used in the creation of [Light and Health Publications](https://publications.light-health.org).
+
+### JavaScript
+* [Next.js](https://nextjs.org/)
+* [React](https://reactjs.org/)
+* [Node.js](https://nodejs.org/en/)
+
+### UI
+* [tailwindcss](https://tailwindcss.com/)
+* [Headless UI](https://headlessui.dev/)
+* [Popper.js](https://popper.js.org/)
+* [Heroicons](https://heroicons.com/)
