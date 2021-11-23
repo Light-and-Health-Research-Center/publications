@@ -41,13 +41,13 @@ Follow these steps to get a development environment up and running on your machi
   ```
 
   ```shell-session
-  npm i
+  npm i OR yarn
   ```
 
 ## Run developement mode
 
   ```shell-session
-  npm run dev
+  npm run dev OR yarn run dev
   ```
 
 ## Open app
