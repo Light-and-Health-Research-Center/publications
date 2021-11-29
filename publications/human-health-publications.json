@@ -8,7 +8,7 @@
         "extra": "2020;10"
       },
       "doi": "10.1038/s41598-020-70619-5",
-      "programs": ["human", "energy", "plant", "transportation"],
+      "programs": ["human"],
       "authors": [
         { "first": "Mark", "last": "Rea", "middle_initial": "S" },
         { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
@@ -16,16 +16,16 @@
       ],
       "keys": [
         "Light at night",
-        "Melatonin",
+        "Biomarkers",
         "Sleep",
         "Residential",
-        "Electric light",
-        "Self-luminous device",
-        "Spectrum",
-        "Duration",
+        "Electric lighting",
+        "Self-luminous devices",
+        "Light spectrum",
+        "Light exposure duration",
         "Light level"
       ],
-      "fund_number": "123456789",
+      "fund_number": "",
       "link": "https://www.nature.com/articles/s41598-020-70619-5"
     },
     {
@@ -36,7 +36,7 @@
         "extra": "2020;4(1):297-312"
       },
       "doi": "10.3233/ADR-200212",
-      "programs": ["human", "energy"],
+      "programs": ["human"],
       "authors": [
         { "first": "Mariana", "last": "Figuerio", "middle_initial": "G" },
         { "first": "Levent", "last": "Sahin" },
@@ -50,13 +50,85 @@
         "Caregivers",
         "Circadian disruption",
         "Daytime light exposure",
-        "Mood",
-        "Long-term exposure",
-        "Sleep",
-        "Behavior"
+        "Mood and behavior",
+        "Sleep"
       ],
-      "fund_number": "123456789",
+      "fund_number": "",
       "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7504981/"
+    },
+    {
+      "title": "Red light: A novel, non-pharmacological intervention to promote alertness in shift workers",
+      "year": "2020",
+      "journal": {
+        "name": "Journal of Safety Research",
+        "extra": "2020;74:169-77"
+      },
+      "doi": "10.1016/j.jsr.2020.06.003",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "David", "last": "Pedler" }
+      ],
+      "keys": [
+        "Field study",
+        "Shift work",
+        "Lighting interventions",
+        "Lighting intervention devices",
+        "Sleep",
+        "Alertness",
+        "Performance",
+        "Biomarkers"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/32951780/"
+    },
+    {
+      "title": "Robust light–dark patterns and reduced amyloid load in an Alzheimer’s disease transgenic mouse model",
+      "year": "2020",
+      "journal": {
+        "name": "Scientific Reports",
+        "extra": "2020;10(1):11436"
+      },
+      "doi": "10.1038/s41598-020-68199-5",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
+        { "first": "Bernard", "last": "", "middle_initial": "Possidente" },
+        { "first": "Sarita", "last": "Lagalwar" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Light-dark pattern",
+        "Animal model",
+        "Circadian disruption"
+      ],
+      "fund_number": "",
+      "link": "https://www.nature.com/articles/s41598-020-68199-5"
+    },
+    {
+      "title": "Flickering Red-Light Stimulus for Promoting Coherent 40 Hz Neural Oscillation: A Feasibility Study",
+      "year": "2020",
+      "journal": {
+        "name": "Journal of Alzheimer’s Disease",
+        "extra": "2020;75(3):911-21"
+      },
+      "doi": "10.3233/jad-200179",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Levent", "last": "Sahin" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Lighting interventions",
+        "Lighting intervention devices",
+        "Alertness",
+        "EEG"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/32390635/"
     },
     {
       "title": "Light, entrainment and alertness: A case study in offices",
@@ -70,20 +142,20 @@
       "authors": [
         { "first": "Mariana", "last": "Figuerio", "middle_initial": "G" },
         { "first": "Brian", "last": "Steverson" },
-        { "first": "J", "last": "Heerwagen" },
-        { "first": "R", "last": "Yucel" },
+        { "first": "Judith", "last": "Heerwagen" },
+        { "first": "Recai", "last": "Yucel" },
         { "first": "Charles", "last": "Roohan" },
         { "first": "Levent", "last": "Sahin" },
-        { "first": "K", "last": "Kampschroer" },
+        { "first": "Kevin", "last": "Kampschroer" },
         { "first": "Mark", "last": "Rea", "middle_initial": "S" }
       ],
       "keys": [
+        "Field study",
+        "Office lighting",
         "Alertness",
-        "Circadian entrainment",
-        "Field Study",
-        "Office workers"
+        "Circadian rhythms"
       ],
-      "fund_number": "123456789",
+      "fund_number": "",
       "link": "https://journals.sagepub.com/doi/10.1177/1477153519885157"
     },
     {
@@ -105,18 +177,143 @@
       ],
       "keys": [
         "Clinical trial",
-        "Tailored lighting intervention",
-        "Long-term care facility",
+        "Lighting interventions",
         "Alzheimer’s disease and related dementias (ADRD)",
-        "Circadian entrainment",
+        "Circadian rhythms",
         "Sleep",
-        "Mood",
-        "Behavior",
-        "Depression",
-        "Rest-activity pattern"
+        "Mood and behavior",
+        "Rest-activity"
       ],
-      "fund_number": "123456789",
+      "fund_number": "",
       "link": "https://jcsm.aasm.org/doi/10.5664/jcsm.8078"
+    },
+    {
+      "title": "Circadian-effective light and its impact on alertness in office workers",
+      "year": "2019",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2019; 51(2):171-83"
+      },
+      "doi": "10.1177/1477153517750006",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Michael", "last": "Kalsher" },
+        { "first": "Bryan", "last": "Steverson", "middle_initial": "C" },
+        { "first": "Judith", "last": "Heerwagen" },
+        { "first": "Kevin", "last": "Kampschroer" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "Office lighting",
+        "Alertness",
+        "Circadian stimulus",
+        "Mood and behavior",
+        "Daysimeter"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/1477153517750006"
+    },
+    {
+      "title": "Effects of red light on sleep inertia",
+      "year": "2019",
+      "journal": {
+        "name": "Nature of Science and Sleep",
+        "extra": "2019; 11:45-57"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Levent", "last": "Sahin" },
+        { "first": "Charles", "last": "Roohan" },
+        { "first": "Michael", "last": "Kalsher" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Lighting interventions",
+        "Sleep",
+        "Alertness",
+        "Closed eyelids",
+        "Lighting intervention devices",
+        "Performance"
+      ],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506010/"
+    },
+    {
+      "title": "The effectiveness of light-emitting diode lighting for providing circadian stimulus in office spaces while minimizing energy use",
+      "year": "2019",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2019"
+      },
+      "doi": "10.1177/1477153519834604",
+      "programs": ["human", "energy"],
+      "authors": [
+        { "first": "Charles", "last": "Jarboe" },
+        { "first": "Jeremy", "last": "Snyder" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Office lighting",
+        "Circadian stimulus",
+        "Lighting intervention devices",
+        "Electric lighting",
+        "Light spectrum"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/1477153519834604"
+    },
+    {
+      "title": "Effect of White Light Devoid of Cyan Spectrum Radiation on Nighttime Melatonin Suppression Over a 1-h Exposure Duration",
+      "year": "2019",
+      "journal": {
+        "name": "J Biol Rhythms",
+        "extra": "2019; 34(2):195-204"
+      },
+      "doi": "10.1177/0748730419830013",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": ["Laboratory study", "Biomarkers", "Light level"],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30821188/"
+    },
+    {
+      "title": "Nocturnal Melatonin Suppression by Adolescents and Adults for Different Levels, Spectra, and Durations of Light Exposure",
+      "year": "2019",
+      "journal": {
+        "name": "J Biol Rhythms",
+        "extra": "2019; 34(2):178-194"
+      },
+      "doi": "10.1177/0748730419828056",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Adolescents",
+        "Circadian rhythms",
+        "Biomarkers",
+        "Light at night (LAN)",
+        "Light spectrum",
+        "Light exposure duration",
+        "Light level"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30803301/"
     },
     {
       "title": "Circadian Health and Light: A Report on the National Heart, Lung, and Blood Institute's Workshop",
@@ -142,9 +339,45 @@
         { "first": "Michael", "last": "Twery", "middle_initial": "K" },
         { "first": "Phyllis", "last": "Zee", "middle_initial": "C" }
       ],
-      "keys": ["Workshop report", "Circadian rhythms", "Sleep"],
-      "fund_number": "123456789",
+      "keys": ["Circadian rhythms", "Sleep"],
+      "fund_number": "",
       "link": "https://pubmed.ncbi.nlm.nih.gov/30033850/"
+    },
+    {
+      "title": "",
+      "year": "",
+      "journal": {
+        "name": "",
+        "extra": ""
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "", "last": "", "middle_initial": "" },
+        { "first": "", "last": "", "middle_initial": "" },
+        { "first": "", "last": "", "middle_initial": "" }
+      ],
+      "keys": [""],
+      "fund_number": "",
+      "link": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "journal": {
+        "name": "",
+        "extra": ""
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "", "last": "", "middle_initial": "" },
+        { "first": "", "last": "", "middle_initial": "" },
+        { "first": "", "last": "", "middle_initial": "" }
+      ],
+      "keys": [""],
+      "fund_number": "",
+      "link": ""
     }
   ]
 }
