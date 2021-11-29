@@ -95,7 +95,7 @@
         { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
         { "first": "Bernard", "last": "", "middle_initial": "Possidente" },
         { "first": "Sarita", "last": "Lagalwar" },
-        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G"}
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
       ],
       "keys": [
         "Alzheimer’s disease and related dementias (ADRD)",
@@ -202,7 +202,7 @@
         { "first": "Bryan", "last": "Steverson", "middle_initial": "C" },
         { "first": "Judith", "last": "Heerwagen" },
         { "first": "Kevin", "last": "Kampschroer" },
-        { "first": "Mark", "last": "Rea", "middle_initial": "S"}
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
       ],
       "keys": [
         "Field study",
@@ -229,8 +229,8 @@
         { "first": "Levent", "last": "Sahin" },
         { "first": "Charles", "last": "Roohan" },
         { "first": "Michael", "last": "Kalsher" },
-        { "first": "Barbara", "last": "Plitnick"},
-        { "first": "Mark", "last": "Rea", "middle_initial": "S"}
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
       ],
       "keys": [
         "Laboratory study",
@@ -281,13 +281,9 @@
         { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
         { "first": "Mark", "last": "Rea", "middle_initial": "S" },
         { "first": "Barbara", "last": "Plitnick" },
-        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G"}
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
       ],
-      "keys": [
-        "Laboratory study",
-        "Biomarkers",
-        "Light level"
-      ],
+      "keys": ["Laboratory study", "Biomarkers", "Light level"],
       "fund_number": "",
       "link": "https://pubmed.ncbi.nlm.nih.gov/30821188/"
     },
@@ -304,7 +300,7 @@
         { "first": "Rohan", "last": "Nagare", "middle_initial": "M" },
         { "first": "Mark", "last": "Rea", "middle_initial": "S" },
         { "first": "Barbara", "last": "Plitnick" },
-        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G"}
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
       ],
       "keys": [
         "Laboratory study",
@@ -343,10 +339,7 @@
         { "first": "Michael", "last": "Twery", "middle_initial": "K" },
         { "first": "Phyllis", "last": "Zee", "middle_initial": "C" }
       ],
-      "keys": [
-        "Circadian rhythms",
-        "Sleep"
-      ],
+      "keys": ["Circadian rhythms", "Sleep"],
       "fund_number": "",
       "link": "https://pubmed.ncbi.nlm.nih.gov/30033850/"
     },
@@ -364,9 +357,7 @@
         { "first": "", "last": "", "middle_initial": "" },
         { "first": "", "last": "", "middle_initial": "" }
       ],
-      "keys": [
-        ""
-      ],
+      "keys": [""],
       "fund_number": "",
       "link": ""
     },
@@ -384,9 +375,7 @@
         { "first": "", "last": "", "middle_initial": "" },
         { "first": "", "last": "", "middle_initial": "" }
       ],
-      "keys": [
-        ""
-      ],
+      "keys": [""],
       "fund_number": "",
       "link": ""
     }
