@@ -1,6 +1,32 @@
 {
   "pubs": [
     {
+      "title": "Assessing LED Exit Sign Brightness Degradation",
+      "year": "2021",
+      "journal": {
+        "name": "",
+        "extra": ""
+      },
+      "doi": "",
+      "programs": ["transportation"],
+      "authors": [
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Norma", "last": "Frank" },
+        { "first": "Chris", "last": "Frank" },
+        { "first": "Scot", "last": "Kelley" },
+        { "first": "Shaun", "last": "Rondinelli" }
+      ],
+      "keys": [
+        "Exit sign",
+        "Emergency lighting",
+        "Emergency egress",
+        "Sign visibility"
+      ],
+      "fund_number": "",
+      "link": "https://drive.google.com/file/d/1hg-ZmNe5fa2eWGBN0ZDXP99tHhbb9j8a/view"
+    },
+    {
       "title": "Predictions of melatonin suppression during the early biological night and their implications for residential light exposures prior to sleeping",
       "year": "2020",
       "journal": {
@@ -159,7 +185,7 @@
       "link": "https://journals.sagepub.com/doi/10.1177/1477153519885157"
     },
     {
-      "title": "Effects of a Tailored Lighting Intervention on Sleep Quality, Rest–Activity, Mood, and Behavior in Older Adults With Alzheimer Disease and Related Dementias: A Randomized Clinical Trial",
+      "title": "Effects of a Tailored Lighting Intervention on Sleep Quality, Rest–Activity, Mood, and Agitation in Older Adults With Alzheimer Disease and Related Dementias: A Randomized Clinical Trial",
       "year": "2019",
       "journal": {
         "name": "Journal of Clinical Sleep Medicine",
@@ -836,7 +862,7 @@
       "title": "Daylight in Office Buildings: Impact of Building Design on Personal Light Exposures, Sleep and Mood",
       "year": "2015",
       "journal": {
-        "name": "",
+        "name": "n/a",
         "extra": ""
       },
       "doi": "",
@@ -1111,24 +1137,1317 @@
       "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3939638/"
     },
     {
-      "title": "Assessing LED Exit Sign Brightness Degradation",
-      "year": "2021",
+      "title": "Daily activity and light exposure levels for five species of lemurs at the duke lemur center",
+      "year": "2014",
       "journal": {
-        "name": "n/a"
+        "name": "American Journal of Physical Anthropology",
+        "extra": "2014; 153(1):68-77"
       },
-      "doi": "n/a",
-      "programs": ["transportation"],
+      "doi": "10.1002/ajpa.22409",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Geoffrey", "last": "Jones", "middle_initial": "E" },
+        { "first": "Kenneth", "last": "Glander", "middle_initial": "E" }
+      ],
+      "keys": ["Rest-activity", "Light-dark pattern", "Daysimeter"],
+      "fund_number": "",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.22409"
+    },
+    {
+      "title": "Health consequences of shift work and implications for structural design",
+      "year": "2013",
+      "journal": {
+        "name": "J Perinatol.",
+        "extra": "2013 Apr;33 Suppl 1:S17-23"
+      },
+      "doi": "10.1038/jp.2013.7. PMID: 23536025",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Robert", "last": "White", "middle_initial": "D" }
+      ],
+      "keys": [
+        "Literature review",
+        "Shift work",
+        "Sleep",
+        "Health risks",
+        "Alertness"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23536025/"
+    },
+    {
+      "title": "The impact of watching television on evening melatonin levels",
+      "year": "2014",
+      "journal": {
+        "name": "Journal of the Society for Information Display",
+        "extra": "2013; 21(10):417-421"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Brittany", "last": "Wood" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Self-luminous device",
+        "Biomarkers",
+        "Light at night (LAN)"
+      ],
+      "fund_number": "",
+      "link": "https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/jsid.200"
+    },
+    {
+      "title": "A train of blue light pulses delivered through closed eyelids suppresses melatonin and phase shifts the human circadian system",
+      "year": "2013",
+      "journal": {
+        "name": "Nature and Science of Sleep",
+        "extra": "2013; 5:133-141"
+      },
+      "doi": "10.2147/NSS.S52203",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Biomarkers",
+        "Circadian rhythms",
+        "Closed eyelids",
+        "Lighting intervention devices",
+        "Lighting interventions"
+      ],
+      "fund_number": "",
+      "link": "https://www.dovepress.com/articles.php?article_id=14585"
+    },
+    {
+      "title": "Relationship of Morning Cortisol to Circadian Phase and Rising Time in Young Adults with Delayed Sleep Times",
+      "year": "2012",
+      "journal": {
+        "name": "International Journal of Endocrinology",
+        "extra": "2012; Volume 2012"
+      },
+      "doi": "10.1155/2012/749460",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Katherine", "last": "Sharkey", "middle_initial": "M" },
+        { "first": "Mary", "last": "Carskadon", "middle_initial": "A" }
+      ],
+      "keys": [
+        "Literature review",
+        "Adolescents",
+        "Circadian rhythms",
+        "Circadian disruption",
+        "Biomarkers",
+        "Sleep"
+      ],
+      "fund_number": "",
+      "link": "https://www.hindawi.com/journals/ije/2012/749460/"
+    },
+    {
+      "title": "Light Therapy and Alzheimer’s Disease and Related Dementia: Past, Present, and Future",
+      "year": "2012",
+      "journal": {
+        "name": "Journal of Alzheimer's Disease",
+        "extra": " 2012; 33(4):913-922"
+      },
+      "doi": "10.3233/JAD-2012-121645",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Nicholas", "last": "Hanford" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Literature review",
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Lighting interventions",
+        "Caregivers",
+        "Sleep",
+        "Circadian disruption",
+        "Rest-activity",
+        "Light-dark pattern"
+      ],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553247/"
+    },
+    {
+      "title": "Lessons from the Daysimeter: can circadian disruption in individuals with Alzheimer's disease be measured?",
+      "year": "2012",
+      "journal": {
+        "name": "Neurodegenerative Disease Management",
+        "extra": "2012; 2(6):553-556"
+      },
+      "doi": "10.2217/nmt.12.56",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Sleep",
+        "Circadian disruption",
+        "Daysimeter"
+      ],
+      "fund_number": "",
+      "link": "https://www.futuremedicine.com/doi/pdf/10.2217/nmt.12.56"
+    },
+    {
+      "title": "Light modulates leptin and ghrelin in sleep restricted adults",
+      "year": "2012",
+      "journal": {
+        "name": "International Journal of Endocrinology",
+        "extra": " 2012; Volume 2012"
+      },
+      "doi": "10.1155/2012/530726",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Biomarkers",
+        "Daytime light exposure",
+        "Lighting interventions"
+      ],
+      "fund_number": "",
+      "link": "https://downloads.hindawi.com/journals/ije/2012/530726.pdf"
+    },
+    {
+      "title": "Short-wavelength light enhances cortisol awakening response in sleep-restricted adolescents",
+      "year": "2012",
+      "journal": {
+        "name": "International Journal of Endocrinology",
+        "extra": "2012; Volume 2012"
+      },
+      "doi": "10.1155/2012/301935",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Adolescents",
+        "Biomarkers",
+        "Lighting interventions",
+        "Sleep"
+      ],
+      "fund_number": "",
+      "link": "https://downloads.hindawi.com/journals/ije/2012/301935.pdf"
+    },
+    {
+      "title": "Field measurements of light exposures and circadian disruption in two populations of older adults",
+      "year": "2012",
+      "journal": {
+        "name": "Journal of Alzheimer's Disease",
+        "extra": "2012; 31(4):711-715"
+      },
+      "doi": "10.3233/JAD-2012-120484",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Robert", "last": "Hamner" },
+        { "first": "Patricia", "last": "Higgins" },
+        { "first": "Thomas", "last": "Hornick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "Older adults",
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Circadian disruption",
+        "Light-dark pattern",
+        "Seasonal"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/22699845/"
+    },
+    {
+      "title": "Preliminary evidence that light through the eyelids can suppress melatonin and phase shift dim light melatonin onset",
+      "year": "2012",
+      "journal": {
+        "name": "BMC Research Notes",
+        "extra": "2012; 5:221"
+      },
+      "doi": "10.1186/1756-0500-5-221",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Closed eyelids",
+        "Biomarkers",
+        "Circadian rhythms",
+        "Dim light melatonin onset (DLMO)",
+        "Lighting intervention devices",
+        "Lighting interventions",
+        "Sleep"
+      ],
+      "fund_number": "",
+      "link": "https://bmcresnotes.biomedcentral.com/track/pdf/10.1186/1756-0500-5-221.pdf"
+    },
+    {
+      "title": "Modeling the spectral sensitivity of the human circadian system",
+      "year": "2012",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2012; 44(4):386-396"
+      },
+      "doi": "10.1177/1477153511430474",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Robert", "last": "Hamner" }
+      ],
+      "keys": ["Circadian stimulus", "Light spectrum", "Circadian rhythms"],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153511430474"
+    },
+    {
+      "title": "Lighting for improving Postural stability in older adults with and without risk for falls",
+      "year": "2012",
+      "journal": {
+        "name": "Age and Ageing",
+        "extra": "2012; 41(3):392-395"
+      },
+      "doi": "10.1093/ageing/afr166",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Laura", "last": "Gras", "middle_initial": "Z" },
+        { "first": "Mary", "last": "Rea", "middle_initial": "S" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": ["Laboratory study", "Older adults", "Postural stability"],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3335369/"
+    },
+    {
+      "title": "Implications of controlled short-wavelength light exposure for sleep in older adults",
+      "year": "2011",
+      "journal": {
+        "name": "BMC Research Notes",
+        "extra": "2011; 4:334"
+      },
+      "doi": "10.1186/1756-0500-4-334",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Natalia", "last": "Lesniak", "middle_initial": "Z" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Older adults",
+        "Lighting interventions",
+        "Sleep",
+        "Circadian disruption",
+        "Light level",
+        "Light exposure duration",
+        "Biomarkers"
+      ],
+      "fund_number": "",
+      "link": "https://bmcresnotes.biomedcentral.com/track/pdf/10.1186/1756-0500-4-334.pdf"
+    },
+    {
+      "title": "Lighting and perceptual cues: Effects on gait measures of older adults at high and low risk for falls",
+      "year": "2011",
+      "journal": {
+        "name": "BMC Geriatrics",
+        "extra": "2011; 11(49)"
+      },
+      "doi": "10.1186/1471-2318-11-49",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mary", "last": "Rea", "middle_initial": "S" },
+        { "first": "Laura", "last": "Gras", "middle_initial": "Z" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": ["Laboratory study", "Older adults", "Postural stability"],
+      "fund_number": "",
+      "link": "https://bmcgeriatr.biomedcentral.com/track/pdf/10.1186/1471-2318-11-49.pdf"
+    },
+    {
+      "title": "Measurements of light at night (LAN) for a sample of female school teachers",
+      "year": "2011",
+      "journal": {
+        "name": "Chronobiology International",
+        "extra": "2011; 28(8):673-680"
+      },
+      "doi": "10.3109/07420528.2011.602198",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Jennifer", "last": "Brons", "middle_initial": "A" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Field study",
+        "School",
+        "Light at night (LAN)",
+        "Health risks",
+        "Light-dark pattern"
+      ],
+      "fund_number": "",
+      "link": "https://www.tandfonline.com/doi/abs/10.3109/07420528.2011.602198"
+    },
+    {
+      "title": "Effects of an advanced sleep schedule and morning short-wavelength light exposure on circadian phase in young adults with late sleep schedules",
+      "year": "2011",
+      "journal": {
+        "name": "Sleep Medicine",
+        "extra": "2011; 12(7):685-692"
+      },
+      "doi": "10.1016/j.sleep.2011.01.016",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Katherine", "last": "Sharkey", "middle_initial": "M" },
+        { "first": "Mary", "last": "Carskadon", "middle_initial": "A" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Yong", "last": "Zhu" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "Circadian rhythms",
+        "Lighting interventions",
+        "Circadian disruption",
+        "Daysimeter",
+        "Sleep"
+      ],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3145013/"
+    },
+    {
+      "title": "Sleep opportunities and periodic light exposures: Impact on biomarkers, performance and sleepiness",
+      "year": "2011",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2011; 43(3):349-369"
+      },
+      "doi": "10.1177/1477153511404175",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Sleep",
+        "Biomarkers",
+        "Performance",
+        "Alertness"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153511404175"
+    },
+    {
+      "title": "The impact of light from computer monitors on melatonin levels in college students",
+      "year": "2011",
+      "journal": {
+        "name": "NeuroEndocrinology Letters",
+        "extra": "2011; 32(2):158-163"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Brittany", "last": "Wood" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Self-luminous device",
+        "Biomarkers",
+        "Light at night (LAN)",
+        "Health risks"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/21552190/"
+    },
+    {
+      "title": "Measuring and predicting eyelid spectral transmittance",
+      "year": "2011",
+      "journal": {
+        "name": "Journal of Biomedical Optics",
+        "extra": "2011; 16(6)"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": ["Laboratory study", "Closed eyelids", "Light spectrum"],
+      "fund_number": "",
+      "link": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-16/issue-06/067011/Measuring-and-predicting-eyelid-spectral-transmittance/10.1117/1.3593151.full?SSO=1"
+    },
+    {
+      "title": "Measuring circadian light and its impact on adolescents",
+      "year": "2011",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2011; 43(2):201-215"
+      },
+      "doi": "10.1177/1477153510382853",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Jennifer", "last": "Brons", "middle_initial": "A" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Brian", "last": "Donlan" },
+        { "first": "Russ", "last": "Leslie" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "Adolescents",
+        "Daytime light exposure",
+        "Sleep",
+        "Performance",
+        "Circadian rhythms",
+        "Lighting intervention devices",
+        "Daysimeter",
+        "Light-dark pattern"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153510382853"
+    },
+    {
+      "title": "The effects of red and blue lights on circadian variations in cortisol, alpha amylase, and melatonin",
+      "year": "2010",
+      "journal": {
+        "name": "International Journal of Endocrinology",
+        "extra": "2010; Volume 2010"
+      },
+      "doi": "10.1155/2010/829351",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Lighting interventions",
+        "Light spectrum",
+        "Biomarkers"
+      ],
+      "fund_number": "",
+      "link": "https://downloads.hindawi.com/journals/ije/2010/829351.pdf"
+    },
+    {
+      "title": "Evening daylight may cause adolescents to sleep less in spring than in winter",
+      "year": "2010",
+      "journal": {
+        "name": "Chronobiology International",
+        "extra": "2010; 27(6):1242-1258"
+      },
+      "doi": "10.3109/07420528.2010.487965",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "Adolescents",
+        "Seasonal",
+        "Sleep",
+        "Daysimeter",
+        "Circadian rhythms",
+        "Dim light melatonin onset (DLMO)"
+      ],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3349220/"
+    },
+    {
+      "title": "Ecological measurements of light exposure, activity, and circadian disruption in real-world environments",
+      "year": "2010",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2010; 42(3):271-284"
+      },
+      "doi": "10.1177/1477153510367977",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Daniel", "last": "Miller" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Eva", "last": "Schernhammer", "middle_initial": "S" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "Shift work",
+        "Rest-activity",
+        "Light-dark pattern",
+        "Circadian rhythms",
+        "Circadian disruption",
+        "Daysimeter"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153510367977"
+    },
+    {
+      "title": "Circadian light",
+      "year": "2010",
+      "journal": {
+        "name": "Journal of Circadian Rhythms",
+        "extra": "2010; 8:2"
+      },
+      "doi": "10.1186/1740-3391-8-2",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" }
+      ],
+      "keys": ["Circadian stimulus", "Biomarkers"],
+      "fund_number": "",
+      "link": "https://jcircadianrhythms.biomedcentral.com/articles/10.1186/1740-3391-8-2"
+    },
+    {
+      "title": "Rest-activity and light exposure patterns in the home setting: A methodological case study",
+      "year": "2010",
+      "journal": {
+        "name": "American Journal of Alzheimer's Disease and Other Dementias",
+        "extra": "2010; 25(4):353-361"
+      },
+      "doi": "10.1177/1533317510363467",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Patricia", "last": "Higgins" },
+        { "first": "Thomas", "last": "Hornick", "middle_initial": "R" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Older adults",
+        "Caregivers",
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Rest-activity",
+        "Light-dark pattern",
+        "Daysimeter"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1533317510363467"
+    },
+    {
+      "title": "The effects of red and blue light on alertness and mood at night",
+      "year": "2010",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2010; 42(4):449-458"
+      },
+      "doi": "10.1177/1477153509360887",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Brittany", "last": "Wood" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Lighting interventions",
+        "Alertness",
+        "Mood and behavior",
+        "Light at night (LAN)",
+        "Light spectrum",
+        "Light level",
+        "EEG"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153509360887"
+    },
+    {
+      "title": "Lack of short-wavelength light during the school day delays dim light melatonin onset (DLMO) in middle school students",
+      "year": "2010",
+      "journal": {
+        "name": "NeuroEndocrinology Letters",
+        "extra": "2010; 31(1):92-96"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Field study",
+        "School",
+        "Adolescents",
+        "Dim light melatonin onset (DLMO)",
+        "Daytime light exposure",
+        "Light spectrum",
+        "Sleep",
+        "Lighting intervention devices"
+      ],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3349218/"
+    },
+    {
+      "title": "Preliminary evidence that both blue and red light can induce alertness at night",
+      "year": "2009",
+      "journal": {
+        "name": "BMC Neuroscience",
+        "extra": "2009; 10(105)"
+      },
+      "doi": "10.1186/1471-2202-10-105",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Barbara", "last": "Plitnick" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Lighting interventions",
+        "Biomarkers",
+        "Alertness",
+        "Light at night (LAN)",
+        "Light level",
+        "EEG"
+      ],
+      "fund_number": "",
+      "link": "https://bmcneurosci.biomedcentral.com/track/pdf/10.1186/1471-2202-10-105.pdf"
+    },
+    {
+      "title": "A personal light-treatment device for possibly improving sleep quality in the elderly: Dynamics of nocturnal melatonin suppression at two exposure levels",
+      "year": "2009",
+      "journal": {
+        "name": "Chronobiology International",
+        "extra": "2009; 26(4):726-739"
+      },
+      "doi": "10.1080/07420520902927809",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "John", "last": "Bullough" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Lighting interventions",
+        "Older adults",
+        "Sleep",
+        "Circadian disruption",
+        "Biomarkers",
+        "Light level"
+      ],
+      "fund_number": "",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/07420520902927809"
+    },
+    {
+      "title": "A novel night lighting system for postural control and stability in seniors",
+      "year": "2008",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2008; 40(2):111-126"
+      },
+      "doi": "10.1177/1477153507084198",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Laura", "last": "Gras", "middle_initial": "Z" },
+        { "first": "Rui", "last": "Qi" },
+        { "first": "Patricia", "last": "Rizzo" },
+        { "first": "Mary", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": ["Field study", "Older adults", "Postural stability"],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153507084198"
+    },
+    {
+      "title": "Light as therapy for sleep disorders and depression in older adults",
+      "year": "2008",
+      "journal": {
+        "name": "Clinical Geriatrics",
+        "extra": " 2008; 16(3):25-31"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Philip", "last": "Sloane", "middle_initial": "D" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Lauren", "last": "Cohen" }
+      ],
+      "keys": [
+        "Literature review",
+        "Older adults",
+        "Lighting interventions",
+        "Sleep",
+        "Mood and behavior",
+        "Circadian disruption"
+      ],
+      "fund_number": "",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3839957/"
+    },
+    {
+      "title": "A proposed 24 h lighting scheme for older adults",
+      "year": "2008",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2008; 40(2):153-160"
+      },
+      "doi": "10.1177/1477153507087299",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Alzheimer’s disease and related dementias (ADRD)",
+        "Rest-activity",
+        "Older adults",
+        "Circadian rhythms",
+        "Caregivers",
+        "Sleep",
+        "Lighting interventions"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/1477153507087299"
+    },
+    {
+      "title": "Retinal mechanisms determine the subadditive response to polychromatic light by the human circadian system",
+      "year": "2008",
+      "journal": {
+        "name": "Neuroscience Letters",
+        "extra": "2008; 438(2):242-245"
+      },
+      "doi": "10.1016/j.neulet.2008.04.055",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Circadian phototransduction",
+        "Lighting interventions",
+        "Biomarkers"
+      ],
+      "fund_number": "",
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0304394008005302"
+    },
+    {
+      "title": "A new approach to understanding the impact of circadian disruption on human health",
+      "year": "2008",
+      "journal": {
+        "name": "Journal of Circadian Rhythms",
+        "extra": "2008; 6:7"
+      },
+      "doi": "10.1186/1740-3391-6-7",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Shift work",
+        "Circadian disruption",
+        "Circadian rhythms",
+        "Light-dark pattern",
+        "Rest-activity",
+        "Animal model"
+      ],
+      "fund_number": "",
+      "link": "https://www.jcircadianrhythms.com/articles/10.1186/1740-3391-6-7/"
+    },
+    {
+      "title": "Developing architectural lighting designs to improve sleep in older adults",
+      "year": "2008",
+      "journal": {
+        "name": "The Open Sleep Journal",
+        "extra": "2008; 1(12):40-51"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Elyse", "last": "Saldo" },
+        { "first": "Mary", "last": "Rea", "middle_initial": "S" },
+        { "first": "Karen", "last": "Kubarek" },
+        { "first": "Julie", "last": "Cunningham" }
+      ],
+      "keys": [
+        "Field study",
+        "Older adults",
+        "Electric lighting",
+        "Sleep",
+        "Rest-activity"
+      ],
+      "fund_number": "",
+      "link": "https://www.researchgate.net/publication/247869529_Developing_Architectural_Lighting_Designs_to_Improve_Sleep_in_Older_Adults"
+    },
+    {
+      "title": "On light as an alerting stimulus at night",
+      "year": "2007",
+      "journal": {
+        "name": "Acta Neurobiologiae Experimentalis",
+        "extra": " 2007; 67(2):171-178"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Charles", "last": "Fay", "middle_initial": "R" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Light at night (LAN)",
+        "Alertness",
+        "Biomarkers",
+        "Lighting interventions",
+        "EEG"
+      ],
+      "fund_number": "",
+      "link": "https://www.ane.pl/pdf/6719.pdf"
+    },
+    {
+      "title": "Lighting as a circadian rhythm-entraining and alertness-enhancing stimulus in the submarine environment.",
+      "year": "2006",
+      "journal": {
+        "name": "Undersea HSI Symposium: Research, Acquisition, and the Warrior. Mystic, CT.",
+        "extra": "June 6-8"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Loring", "last": "Crepeau", "middle_initial": "J" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Steven", "last": "Porter" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Literature review",
+        "Shift work",
+        "Electric lighting",
+        "Circadian rhythms",
+        "Alertness"
+      ],
+      "fund_number": "",
+      "link": "http://cogprints.org/6574/1/059-uhsis06.pdf"
+    },
+    {
+      "title": "A discussion of recommended standards for lighting in the newborn intensive care unit",
+      "year": "2006",
+      "journal": {
+        "name": "Journal of Perinatology",
+        "extra": "2006; 26:S19-S26"
+      },
+      "doi": "10.1038/sj.jp.7211586",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Kenneth", "last": "Appleman" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": ["Healthcare", "Newborn Intensive Care Unit (NICU)"],
+      "fund_number": "",
+      "link": "https://www.nature.com/articles/7211586"
+    },
+    {
+      "title": "Circadian effectiveness of two polychromatic lights in suppressing human nocturnal melatonin",
+      "year": "2006",
+      "journal": {
+        "name": "Neuroscience Letters",
+        "extra": "2006; 406(3):293-297"
+      },
+      "doi": "10.1016/j.neulet.2006.07.069",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" }
+      ],
+      "keys": ["Laboratory study", "Light level", "Biomarkers"],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16930839/"
+    },
+    {
+      "title": "Does architectural lighting contribute to breast cancer?",
+      "year": "2006",
+      "journal": {
+        "name": "Journal of Carcinogenesis",
+        "extra": "2006; 5(1):20"
+      },
+      "doi": "10.1186/1477-3163-5-20",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" }
+      ],
+      "keys": [
+        "Literature review",
+        "Field study",
+        "Health risks",
+        "Electric lighting",
+        "Biomarkers",
+        "Light at night (LAN)",
+        "Animal model"
+      ],
+      "fund_number": "",
+      "link": "http://www.carcinogenesis.com/article.asp?issn=1477-3163;year=2006;volume=5;issue=1;spage=20;epage=20;aulast=Figueiro"
+    },
+
+    {
+      "title": "Of mice and women: Light as a circadian stimulus in breast cancer research",
+      "year": "2006",
+      "journal": {
+        "name": "Cancer Causes and Control",
+        "extra": "2006; 17(4):375-383"
+      },
+      "doi": "10.1007/s10552-005-0574-1",
+      "programs": ["human"],
+      "authors": [
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Literature review",
+        "Animal model",
+        "Circadian disruption",
+        "Health risks",
+        "Circadian rhythms"
+      ],
+      "fund_number": "",
+      "link": "https://link.springer.com/article/10.1007/s10552-005-0574-1"
+    },
+    {
+      "title": "The Daysimeter: A device for measuring optical radiation as a stimulus for the human circadian system",
+      "year": "2005",
+      "journal": {
+        "name": "Measurement Science and Technology",
+        "extra": "2005; 16:2292-2299"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Terence", "last": "Klein", "middle_initial": "R" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Daysimeter",
+        "Circadian stimulus",
+        "Light spectrum",
+        "Light level"
+      ],
+      "fund_number": "",
+      "link": "https://iopscience.iop.org/article/10.1088/0957-0233/16/11/023/pdf"
+    },
+    {
+      "title": "Demonstration of additivity failure in human circadian phototransduction",
+      "year": "2005",
+      "journal": {
+        "name": "NeuroEndocrinology Letters",
+        "extra": "2005; 26(5):493-498"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Andrew", "last": "Bierman" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Biomarkers",
+        "Circadian phototransduction",
+        "Light spectrum",
+        "Light level"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16264413/"
+    },
+    {
+      "title": "Preliminary evidence for a change in spectral sensitivity of the circadian system at night",
+      "year": "2005",
+      "journal": {
+        "name": "Journal of Circadian Rhythms",
+        "extra": "2005; 3:14"
+      },
+      "doi": "10.1186/1740-3391-3-14",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Robert", "last": "Pasrsons", "middle_initial": "H" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Biomarkers",
+        "Lighting interventions",
+        "Light spectrum",
+        "Circadian phototransduction"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16336697/"
+    },
+    {
+      "title": "Additivity in murine circadian phototransduction",
+      "year": "2005",
+      "journal": {
+        "name": "Zoological Science, 2005",
+        "extra": "22(2):223-227"
+      },
+      "doi": "10.2108/zsj.22.223",
+      "programs": ["human"],
       "authors": [
         { "first": "John", "last": "Bullough", "middle_initial": "D" },
         { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
-        { "first": "Norma", "last": "Frank" },
-        { "first": "Chris", "last": "Frank" },
-        { "first": "Scot", "last": "Kelley" },
-        { "first": "Shaun", "last": "Rondinelli" }
+        { "first": "Bernard", "last": "Possidente", "middle_initial": "P" },
+        { "first": "Robert", "last": "Parsons", "middle_initial": "H" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
       ],
-      "keys": ["Exit sign"],
+      "keys": ["Animal model", "Circadian phototransduction", "Light spectrum"],
       "fund_number": "",
-      "link": "https://drive.google.com/file/d/1hg-ZmNe5fa2eWGBN0ZDXP99tHhbb9j8a/view"
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15738642/"
+    },
+    {
+      "title": "A model of phototransduction by the human circadian system",
+      "year": "2005",
+      "journal": {
+        "name": "Brain Research Rev",
+        "extra": "2005; 50(2):213-228"
+      },
+      "doi": "10.1016/j.brainresrev.2005.07.002",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Andrew", "last": "Bierman" }
+      ],
+      "keys": [
+        "Circadian phototransduction",
+        "Biomarkers",
+        "Circadian rhythms",
+        "Circadian stimulus"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16216333/"
+    },
+    {
+      "title": "Preliminary evidence for spectral opponency in the suppression of melatonin by light in humans",
+      "year": "2004",
+      "journal": {
+        "name": "Neuroreport",
+        "extra": "2004; 15(2):313-316"
+      },
+      "doi": "10.1097/00001756-200402090-00020",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Robert", "last": "Parsons", "middle_initial": "H" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Circadian phototransduction",
+        "Biomarkers",
+        "Lighting interventions"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15076759/"
+    },
+    {
+      "title": "Circadian photobiology: An emerging framework for lighting practice and research",
+      "year": "2002",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": "2002; 34(3):177-190"
+      },
+      "doi": "10.1191/1365782802lt057oa",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" }
+      ],
+      "keys": ["Circadian rhythms", "Electric lighting"],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1191/1365782802lt057oa"
+    },
+    {
+      "title": "Phototransduction for human melatonin suppression",
+      "year": "2002",
+      "journal": {
+        "name": "Journal of Pineal Research",
+        "extra": "2002; 32(4):209-213"
+      },
+      "doi": "10.1034/j.1600-079x.2002.01881.x",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Circadian phototransduction",
+        "Biomarkers",
+        "Light level",
+        "Light spectrum"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/11982788/"
+    },
+    {
+      "title": "Light in the built environment: Potential role of circadian disruption in endocrine disruption and breast cancer",
+      "year": "2001",
+      "journal": {
+        "name": "Cancer Causes and Control",
+        "extra": "2001; 12(3):279-287"
+      },
+      "doi": "10.1023/a:1011237000609",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Richard", "last": "Stevens", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Electric lighting",
+        "Circadian rhythms",
+        "Circadian phototransduction",
+        "Circadian disruption",
+        "Health risks"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/11405333/"
+    },
+    {
+      "title": "Human melatonin suppression by light: A case for scotopic efficiency",
+      "year": "2001",
+      "journal": {
+        "name": "Neuroscience Letters",
+        "extra": "2001; 299(1-2):45-48"
+      },
+      "doi": "10.1016/s0304-3940(01)01512-9",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Laboratory study",
+        "Light level",
+        "Light spectrum",
+        "Biomarkers"
+      ],
+      "fund_number": "",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/11166934/"
+    },
+    {
+      "title": "The effects of bright light on day and night shift nurses' performance and well being in the NICU",
+      "year": "2001",
+      "journal": {
+        "name": "Neonatal Intensive Care. The Journal of Perinatology-Neonatology",
+        "extra": "2001; 14(1):29-32"
+      },
+      "doi": "",
+      "programs": ["human"],
+      "authors": [
+        { "first": "Mariana", "last": "Figueiro", "middle_initial": "G" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Peter", "last": "Boyce", "middle_initial": "R" },
+        { "first": "Robert", "last": "White", "middle_initial": "D" },
+        { "first": "Kathleen", "last": "Kolberg" }
+      ],
+      "keys": [
+        "Field study",
+        "Healthcare",
+        "Shift work",
+        "Newborn Intensive Care Unit (NICU)",
+        "Performance",
+        "Daytime light exposure"
+      ],
+      "fund_number": "",
+      "link": "https://www.researchgate.net/publication/288441486_The_effects_of_bright_light_on_day_and_night_shift_nurses%27_performance_and_well-being_in_the_NICU"
+    },
+    {
+      "title": "Light and magnetic fields in a neonatal intensive care unit",
+      "year": "1996",
+      "journal": {
+        "name": "Bioelectromagnetics",
+        "extra": "1996; 17(5):396-405"
+      },
+      "doi": "10.1002/(SICI)1521-186X(1996)17:5<396::AID-BEM7>3.0.CO;2-Z",
+      "programs": ["human"],
+      "authors": [
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" },
+        { "first": "Richard", "last": "Stevens", "middle_initial": "G" }
+      ],
+      "keys": [
+        "Field study",
+        "Healthcare",
+        "Newborn Intensive Care Unit (NICU)",
+        "Health risks",
+        "Light level"
+      ],
+      "fund_number": "",
+      "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291521-186X%281996%2917%3A5%3C396%3A%3AAID-BEM7%3E3.0.CO%3B2-Z"
+    },
+    {
+      "title": "Lighting for neonatal intensive care units: Some critical information of design",
+      "year": "1996",
+      "journal": {
+        "name": "Lighting Research & Technology",
+        "extra": " 1996; 28(4):189-198"
+      },
+      "doi": "10.1177/14771535960280040201",
+      "programs": ["human"],
+      "authors": [
+        { "first": "John", "last": "Bullough", "middle_initial": "D" },
+        { "first": "Mark", "last": "Rea", "middle_initial": "S" }
+      ],
+      "keys": [
+        "Literature review",
+        "Healthcare",
+        "Newborn Intensive Care Unit (NICU)",
+        "Light level"
+      ],
+      "fund_number": "",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/14771535960280040201"
     }
   ]
 }
