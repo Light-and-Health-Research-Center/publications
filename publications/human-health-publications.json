@@ -18,10 +18,10 @@
         { "first": "Shaun", "last": "Rondinelli" }
       ],
       "keys": [
-        "Exit sign",
+        "Signage/wayfinding",
         "Emergency lighting",
         "Emergency egress",
-        "Sign visibility"
+        "Visibility"
       ],
       "fund_number": "",
       "link": "https://drive.google.com/file/d/1hg-ZmNe5fa2eWGBN0ZDXP99tHhbb9j8a/view"
@@ -46,7 +46,7 @@
         "Sleep",
         "Residential",
         "Electric lighting",
-        "Self-luminous devices",
+        "Self-luminous device",
         "Light spectrum",
         "Light exposure duration",
         "Light level"
@@ -1154,6 +1154,28 @@
       "keys": ["Rest-activity", "Light-dark pattern", "Daysimeter"],
       "fund_number": "",
       "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.22409"
+    },
+    {
+      "title": "General Services Administration (GSA) Report Compilation - Circadian-Effective Lighting in Federal High-Performance Green Buildings",
+      "year": "2013, 2014, 2015, 2016, 2017, 2018",
+      "journal": {
+        "name": "",
+        "extra": ""
+      },
+      "doi": "",
+      "programs": ["human", "energy"],
+      "authors": [{ "first": "Lighting Research Center" }],
+      "keys": [
+        "Field study",
+        "Report",
+        "Office lighting",
+        "Daylight",
+        "Daysimeter",
+        "Lighting interventions",
+        "Circadian stimulus"
+      ],
+      "fund_number": "",
+      "link": "https://drive.google.com/drive/folders/1npzWr4K9hf0JWaQu8_ZvsCk8VYaeqKF6?usp=sharing"
     },
     {
       "title": "Health consequences of shift work and implications for structural design",
