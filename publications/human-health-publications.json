@@ -1158,13 +1158,10 @@
     {
       "title": "General Services Administration (GSA) Report Compilation - Circadian-Effective Lighting in Federal High-Performance Green Buildings",
       "year": "2013, 2014, 2015, 2016, 2017, 2018",
-      "journal": {
-        "name": "",
-        "extra": ""
-      },
+      "journal": {},
       "doi": "",
       "programs": ["human", "energy"],
-      "authors": [{ "first": "Lighting Research Center" }],
+      "authors": [{ "last": "Lighting Research Center" }],
       "keys": [
         "Field study",
         "Report",
