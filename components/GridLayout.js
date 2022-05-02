@@ -1,5 +1,5 @@
 import PublicationCard from "./PublicationCard";
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 
 export default function GridLayout() {
   const context = usePublications();

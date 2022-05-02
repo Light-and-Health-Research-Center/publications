@@ -1,6 +1,6 @@
 import { Menu, Transition, Fragment } from "@headlessui/react";
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/solid";
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 export default function SortBy() {
   const context = usePublications();
   return (

@@ -1,4 +1,4 @@
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 
 export default function Count() {
   const context = usePublications();

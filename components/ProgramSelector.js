@@ -1,6 +1,6 @@
 import { Popover, Fragment, Transition } from "@headlessui/react";
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/solid";
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 import { useState } from "react";
 import { usePopper } from "react-popper";
 

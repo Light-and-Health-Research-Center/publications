@@ -5,7 +5,7 @@ import Main from "../components/Main";
 import {
   PublicationsProvider,
   usePublications,
-} from "../components/publicationsContext";
+} from "../contexts/publicationsContext";
 import Search from "../components/Search";
 import Selectors from "../components/Selectors";
 import TopBar from "../components/TopBar";

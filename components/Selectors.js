@@ -11,7 +11,7 @@ export default function Selectors() {
       <div className="flex overflow-x-scroll scrollbar-hide">
         <YearSelector />
         <JournalSelector />
-        <FundingSelector />
+        {/* <FundingSelector /> */}
         <ProgramSelector />
         <KeySelector />
       </div>

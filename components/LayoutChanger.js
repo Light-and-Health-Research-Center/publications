@@ -1,5 +1,5 @@
 import { ViewGridIcon, ViewListIcon } from "@heroicons/react/solid";
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 
 export default function LayoutChanger() {
   const context = usePublications();

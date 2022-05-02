@@ -1,6 +1,6 @@
 import { SearchIcon } from "@heroicons/react/solid";
 import useWindowSize from "../hooks/useWindowSize";
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 
 export default function Search() {
   const width = useWindowSize().width;

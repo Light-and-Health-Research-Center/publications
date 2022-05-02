@@ -7,93 +7,33 @@ export function usePublications() {
 }
 
 export function PublicationsProvider({ publications, selectors, children }) {
+  const totalPublicationsCount = publications.length;
+
+  const allYears = removeEmpty(selectors.years);
+  const allJournals = removeEmpty(selectors.journals);
+  const allFundings = removeEmpty(selectors.fundings);
+  const allPrograms = removeEmpty(selectors.programs);
+  const allKeys = removeEmpty(selectors.keys);
+
   const [selectedPublications, setSelectedPublications] = useState([
     ...publications,
   ]);
-
-  // Query Stuff
   const [query, setQuery] = useState("");
-
-  function changeQuery(event) {
-    const newQuery = event.target.value;
-    setQuery(newQuery);
-  }
-
-  function queryMatchesTitle(publication) {
-    return (
-      publication.title &&
-      publication.title.toLowerCase().includes(query.toLowerCase())
-    );
-  }
-
-  function queryMatchesDOI(publication) {
-    return (
-      publication.doi &&
-      publication.doi.toLowerCase().includes(query.toLowerCase())
-    );
-  }
-
-  function queryMatchesAuthor(publication) {
-    let matches = false;
-    publication.authors.map((author) => {
-      if (author.last.toLowerCase().includes(query.toLowerCase())) {
-        matches = true;
-      }
-    });
-    return matches;
-  }
-
-  // Sorting Stuff
   const [sortBy, setSortBy] = useState("Year");
-
-  function isSortedByYear() {
-    return sortBy === "Year";
-  }
-
-  function isSortedByTitle() {
-    return sortBy === "Title";
-  }
-
-  function setSortByYear() {
-    setSortBy("Year");
-  }
-
-  function setSortByTitle() {
-    setSortBy("Title");
-  }
-
-  // grid vs list
   const [layout, setLayout] = useState("grid");
-
-  function setLayoutGrid() {
-    setLayout("grid");
-  }
-
-  function setLayoutList() {
-    setLayout("list");
-  }
-
-  const totalPublicationsCount = publications.length;
   const [selectedPublicationsCount, setSelectedPublicationsCount] = useState(
     selectedPublications.length
   );
-
-  // Update selectedPublicationsCount
-  useEffect(() => {
-    setSelectedPublicationsCount(selectedPublications.length);
-  }, [selectedPublications]);
-
-  const allYears = selectors.years;
-  const allJournals = selectors.journals;
-  const allFundings = selectors.fundings;
-  const allPrograms = selectors.programs;
-  const allKeys = selectors.keys;
-
   const [selectedYears, setSelectedYears] = useState([...allYears]);
   const [selectedJournals, setSelectedJournals] = useState([...allJournals]);
   const [selectedFundings, setSelectedFundings] = useState([...allFundings]);
   const [selectedPrograms, setSelectedPrograms] = useState([...allPrograms]);
   const [selectedKeys, setSelectedKeys] = useState([...allKeys]);
+
+  // Update selectedPublicationsCount
+  useEffect(() => {
+    setSelectedPublicationsCount(selectedPublications.length);
+  }, [selectedPublications]);
 
   // Update selectedPublications
   useEffect(() => {
@@ -149,8 +89,76 @@ export function PublicationsProvider({ publications, selectors, children }) {
         setSelectedPublications(selectedPublicationsCopy);
         break;
     }
-    console.log(selectedPublications);
   }, [sortBy]);
+
+  // Helpers
+  function removeEmpty(arr) {
+    let i = 0;
+    while (i < arr.length) {
+      if (arr[i] === "") {
+        arr.splice(i, 1);
+      } else {
+        ++i;
+      }
+    }
+    return arr;
+  }
+
+  // Query stuff
+  function changeQuery(event) {
+    const newQuery = event.target.value;
+    setQuery(newQuery);
+  }
+
+  function queryMatchesTitle(publication) {
+    return (
+      publication.title &&
+      publication.title.toLowerCase().includes(query.toLowerCase())
+    );
+  }
+
+  function queryMatchesDOI(publication) {
+    return (
+      publication.doi &&
+      publication.doi.toLowerCase().includes(query.toLowerCase())
+    );
+  }
+
+  function queryMatchesAuthor(publication) {
+    let matches = false;
+    publication.authors.map((author) => {
+      if (author.last.toLowerCase().includes(query.toLowerCase())) {
+        matches = true;
+      }
+    });
+    return matches;
+  }
+
+  // Sorting Stuff
+  function isSortedByYear() {
+    return sortBy === "Year";
+  }
+
+  function isSortedByTitle() {
+    return sortBy === "Title";
+  }
+
+  function setSortByYear() {
+    setSortBy("Year");
+  }
+
+  function setSortByTitle() {
+    setSortBy("Title");
+  }
+
+  // grid vs list
+  function setLayoutGrid() {
+    setLayout("grid");
+  }
+
+  function setLayoutList() {
+    setLayout("list");
+  }
 
   // Year
   function yearIsSelected(year) {
@@ -289,7 +297,7 @@ export function PublicationsProvider({ publications, selectors, children }) {
     setSelectedPrograms([]);
   }
 
-  //Keys
+  // Keys
   function keyIsSelected(key) {
     return selectedKeys.includes(key);
   }

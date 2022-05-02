@@ -1,5 +1,5 @@
 import PublicationListItem from "./PublicationListItem";
-import { usePublications } from "./publicationsContext";
+import { usePublications } from "../contexts/publicationsContext";
 
 export default function ListLayout() {
   const context = usePublications();
